@@ -3,7 +3,7 @@ import 'package:moon_walker/custom_classes/Singelton.dart';
 class Config{
 
   //base url
-  static String baseUrl = "https://api.moonwalkerindia.com/salesman/v1";
+  static String baseUrl = "";
 
   // end url
   static String sendOtp = "/send-otp";
